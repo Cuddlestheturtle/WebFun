@@ -1,0 +1,28 @@
+body{
+    margin: 50px;
+}
+
+
+.search{
+    border-radius: 50px;
+    width: 100px;
+    background-color: azure;
+    color: cyan;
+    border-color: cyan;
+
+}
+
+.add {
+    border-radius:25px;
+    background-color: aqua;
+    color: azure;
+    height: 30px;
+    font-size: large;
+}
+
+.account{
+    color: white;
+    background-color: blue;
+    height: 30px;
+    box-shadow:10px 10px 8px black
+}
