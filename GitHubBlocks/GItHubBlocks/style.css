@@ -1,0 +1,51 @@
+
+.title{
+    text-align: center;
+}
+
+.header{
+    display: flex; 
+    background-color: dimgrey;
+    justify-content: space-evenly;
+}
+
+.cat1{
+    margin:10px
+}
+    
+
+.cat1 img {
+    width: 575px;
+    height: 575px;
+    padding: 20px;
+    
+}
+
+.middle{
+    display: flex;
+    background-color: yellowgreen;
+    justify-content: space-around;
+    padding: 10px;
+}
+
+.cat2 img{
+    width: 575px;
+    height: 575px;
+    margin: 100px;
+    text-align: center;
+    
+}
+
+.end{
+    display: flex;
+    background-color: paleturquoise;
+    justify-content: space-evenly;
+}
+
+.cat3 img{
+    width: 575px;
+    height: 575px;
+    padding: 20px;
+}
+
+
