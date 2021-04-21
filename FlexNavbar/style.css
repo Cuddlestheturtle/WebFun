@@ -1,0 +1,47 @@
+*{
+    font-family: 'Roboto', sans-serif;
+}
+
+
+.nav{
+    background-color: dimgray;
+    height: 50px;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-self: center;
+    
+}
+
+.nav-title{
+    color: white;
+    margin: 0px;
+    padding: 5px;
+    padding-left: 15px;
+
+}
+
+.nav-links{
+    text-align: center;
+    display: flex;
+    color: white;
+}
+ul li{
+    list-style: none;
+    padding-right: 20px;
+    
+        
+}
+ul a{
+    color: white;
+    text-decoration: none;
+}
+.active{
+    font-weight: bold;
+
+}
+.btn{
+    background-color: dodgerblue;
+    color: white;
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19);
+}
