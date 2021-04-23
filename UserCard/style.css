@@ -1,0 +1,62 @@
+*{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}
+
+.container {
+    height:400 px ;
+    width: 600 px;
+    position: absolute;
+    top: 200px;
+    left: 100px;
+    
+    
+
+}
+
+.header {
+    background-color: teal;
+    height: 100px;
+    width: 600px;
+}
+
+.body {
+    background-color: whitesmoke;
+    height: 300px;
+    width:600px;
+    
+    
+
+}  
+.info{
+    position: relative;
+    left: 25px;
+    bottom: 40px;
+
+    
+}
+.profilepic img {
+    height: 75px;
+    width: 75px;
+    
+}
+.location{
+    display:flex;
+
+
+}
+.location img{
+    height: 20px;
+    
+    
+
+}
+
+
+.edit img{
+    height: 20px;
+
+}
+
+
+
